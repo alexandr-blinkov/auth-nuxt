@@ -10,7 +10,7 @@
               </v-toolbar>
 
               <v-card-text>
-                <v-form v-model="valid" ref="form" lazy-validation>
+                <v-form v-model="valid" ref="form" validation>
                 <v-text-field
                     prepend-icon="mdi-account"
                     label="Имя"
@@ -66,7 +66,7 @@
                 <v-btn
                   color="primary"
                   @click="registerUser"
-                  :disabled="isSaving"
+                  :disabled="!valid"
                   :loading="loading"
                 >Создать аккаунт</v-btn>
               </v-card-actions>
@@ -89,17 +89,11 @@ import { mapActions } from 'vuex'
         loading: false,
         valid: false,
         isSaving: false,
-        snackbar: false,
-
         username: null,
         email: null,
         password: null,
         confirmPassword: null,
         photo: null,
-
-        controls: {
-
-        },
         rules: {
             username: [
                 v => !!v || 'Поле не может быть пустым',

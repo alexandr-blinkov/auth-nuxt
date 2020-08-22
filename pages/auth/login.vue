@@ -50,7 +50,6 @@ export default {
     return {
       loading: false,
       valid: false,
-      snackbar: false,
       email: null,
       password: null,
       rules: {

@@ -1,0 +1,23 @@
+[
+  {
+    "name": "auth-login",
+    "path": "/auth/login",
+    "component": "/Users/katya/Documents/GitHub/auth-nuxt/pages/auth/login.vue",
+    "chunkName": "pages/auth/login",
+    "_name": "_1e215278"
+  },
+  {
+    "name": "auth-registration",
+    "path": "/auth/registration",
+    "component": "/Users/katya/Documents/GitHub/auth-nuxt/pages/auth/registration.vue",
+    "chunkName": "pages/auth/registration",
+    "_name": "_f394540c"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/katya/Documents/GitHub/auth-nuxt/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_caf949e8"
+  }
+]
