@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "email": "alexandr.ivanov@mail.ru",
+      "password": "$2a$10$jQNbvV0wRG01.AelTsyNcuv4EA58XxE8rjUAAOy6hMKN0.l9kbUgu",
+      "id": "daab1905-38ea-4cc0-97d3-7d2daa04c0b6",
+      "username": "Александр",
+      "photo": "https://www.nj.com/resizer/h8MrN0-Nw5dB5FOmMVGMmfVKFJo=/450x0/smart/cloudfront-us-east-1.images.arcpublishing.com/advancelocal/SJGKVE5UNVESVCW7BBOHKQCZVE.jpg",
+      "timestamp": 1598039433838
+    },
+    {
+      "email": "mixail.petrov@mail.ru",
+      "password": "$2a$10$Wj15oqcUGzDuhUpUXo4lsOiPXpTaWCWLB0di3nVQ1UVw0xwekOQuO",
+      "id": "3fd69d71-c53c-4383-9bbf-2482c9fab07f",
+      "username": "Михаил",
+      "photo": "https://st3.depositphotos.com/1007566/13024/v/950/depositphotos_130240748-stock-illustration-young-man-avatar-character.jpg",
+      "timestamp": 1598040082430
+    },
+    {
+      "email": "andrey.sidorov@mail.ru",
+      "password": "$2a$10$9wPQ/KtxFwhNvjrC7Qw9h.96827.UFAVONT76Vul49hFqLD6UuBri",
+      "id": "29971022-e0d8-497d-b84c-f65450888aee",
+      "username": "Андрей",
+      "photo": "https://previews.123rf.com/images/yupiramos/yupiramos1706/yupiramos170621008/80351977-young-man-avatar-character-vector-illustration-design.jpg",
+      "timestamp": 1598040206997
+    },
+    {
+      "email": "nik.vasilyev@mail.ru",
+      "password": "$2a$10$o5zTVTex6.u4LLP5nrileOfjXlKOh35hcltWAhMPDJjBgaktvD8iG",
+      "id": "3f8ef201-b7be-4c8f-b927-8c97ad6709c2",
+      "username": "Никита",
+      "photo": "https://previews.123rf.com/images/yupiramos/yupiramos1712/yupiramos171217688/92110199-elegant-businessman-avatar-character-vector-illustration-design.jpg",
+      "timestamp": 1598040337349
+    }
+  ]
+}
